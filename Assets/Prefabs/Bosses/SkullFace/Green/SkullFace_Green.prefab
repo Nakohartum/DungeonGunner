@@ -1,0 +1,103 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1001 &8609322588829950370
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: 305138933342843906, guid: dbd42fc4889b4fa4a899b319e6b8a6b9, type: 3}
+      propertyPath: movementDetails
+      value: 
+      objectReference: {fileID: 11400000, guid: 4a56f8cae0d8fee41905b0254ecab5d0, type: 2}
+    - target: {fileID: 1006896802071142340, guid: dbd42fc4889b4fa4a899b319e6b8a6b9, type: 3}
+      propertyPath: m_Color.b
+      value: 0.3254902
+      objectReference: {fileID: 0}
+    - target: {fileID: 1006896802071142340, guid: dbd42fc4889b4fa4a899b319e6b8a6b9, type: 3}
+      propertyPath: m_Color.g
+      value: 0.9137255
+      objectReference: {fileID: 0}
+    - target: {fileID: 1006896802071142340, guid: dbd42fc4889b4fa4a899b319e6b8a6b9, type: 3}
+      propertyPath: m_Color.r
+      value: 0.38431373
+      objectReference: {fileID: 0}
+    - target: {fileID: 3302723128130260573, guid: dbd42fc4889b4fa4a899b319e6b8a6b9, type: 3}
+      propertyPath: m_RootOrder
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3302723128130260573, guid: dbd42fc4889b4fa4a899b319e6b8a6b9, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3302723128130260573, guid: dbd42fc4889b4fa4a899b319e6b8a6b9, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3302723128130260573, guid: dbd42fc4889b4fa4a899b319e6b8a6b9, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3302723128130260573, guid: dbd42fc4889b4fa4a899b319e6b8a6b9, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 3302723128130260573, guid: dbd42fc4889b4fa4a899b319e6b8a6b9, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3302723128130260573, guid: dbd42fc4889b4fa4a899b319e6b8a6b9, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3302723128130260573, guid: dbd42fc4889b4fa4a899b319e6b8a6b9, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3302723128130260573, guid: dbd42fc4889b4fa4a899b319e6b8a6b9, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3302723128130260573, guid: dbd42fc4889b4fa4a899b319e6b8a6b9, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3302723128130260573, guid: dbd42fc4889b4fa4a899b319e6b8a6b9, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4334005555248542572, guid: dbd42fc4889b4fa4a899b319e6b8a6b9, type: 3}
+      propertyPath: m_Color.b
+      value: 0.3254902
+      objectReference: {fileID: 0}
+    - target: {fileID: 4334005555248542572, guid: dbd42fc4889b4fa4a899b319e6b8a6b9, type: 3}
+      propertyPath: m_Color.g
+      value: 0.9137255
+      objectReference: {fileID: 0}
+    - target: {fileID: 4334005555248542572, guid: dbd42fc4889b4fa4a899b319e6b8a6b9, type: 3}
+      propertyPath: m_Color.r
+      value: 0.38431373
+      objectReference: {fileID: 0}
+    - target: {fileID: 4382811613158637215, guid: dbd42fc4889b4fa4a899b319e6b8a6b9, type: 3}
+      propertyPath: m_Color.b
+      value: 0.3254902
+      objectReference: {fileID: 0}
+    - target: {fileID: 4382811613158637215, guid: dbd42fc4889b4fa4a899b319e6b8a6b9, type: 3}
+      propertyPath: m_Color.g
+      value: 0.9137255
+      objectReference: {fileID: 0}
+    - target: {fileID: 4382811613158637215, guid: dbd42fc4889b4fa4a899b319e6b8a6b9, type: 3}
+      propertyPath: m_Color.r
+      value: 0.38431373
+      objectReference: {fileID: 0}
+    - target: {fileID: 5946748033153385467, guid: dbd42fc4889b4fa4a899b319e6b8a6b9, type: 3}
+      propertyPath: enemyDetails
+      value: 
+      objectReference: {fileID: 11400000, guid: 5a0f5352bf34de0499332a8b9fedc7bf, type: 2}
+    - target: {fileID: 8278868560993300495, guid: dbd42fc4889b4fa4a899b319e6b8a6b9, type: 3}
+      propertyPath: m_Name
+      value: SkullFace_Green
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: dbd42fc4889b4fa4a899b319e6b8a6b9, type: 3}
